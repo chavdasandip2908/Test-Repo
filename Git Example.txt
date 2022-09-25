@@ -1,2 +1,1 @@
-This is git example file.
-sada
+This is new 
